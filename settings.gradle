@@ -1,0 +1,5 @@
+rootProject.name = 'gradle_parent'
+include 'gradle_service'
+include 'gradle_web'
+include 'gradle_dao'
+
